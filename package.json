@@ -1,0 +1,25 @@
+{
+  "name": "get-pi",
+  "version": "3.1.4",
+  "description": "Get Pi (3.14) digits",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanouil/npm_get-pi.git"
+  },
+  "keywords": [
+    "Pi",
+    "π",
+    "3.14",
+    "PI"
+  ],
+  "author": "emmanouil <nigel_fry@zoho.eu> (https://twitter.com/emmanouip)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/emmanouil/npm_get-pi/issues"
+  },
+  "homepage": "https://github.com/emmanouil/npm_get-pi#readme"
+}
