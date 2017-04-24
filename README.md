@@ -10,8 +10,8 @@ A small library that returns the requested digits of Pi (π). The return pseudo-
 
 
 Supported commands:
- - `.getPi(<digits - optional>, <decimalsOnly - optional>)` (returns _digits_ digits of Pi (default = 4), starting counting after the decimal. i.e. for n=1 returns 1)
- - `.getPiString(<digits - optional>, <decimalsOnly - optional>)` (returns a String with _digits_ digits of Pi (default = 4), starting counting after the decimal. i.e. for n=1 returns 1)
+ - `.getPi(<digits - optional [default: 4]>, <decimalsOnly - optional [default: false]>)` (returns _digits_ digits of Pi (default = 4), starting counting after the decimal. i.e. for n=1 returns 1)
+ - `.getPiString(<digits - optional [default: 4]>, <decimalsOnly - optional [default: false]>)` (returns a String with _digits_ digits of Pi (default = 4), starting counting after the decimal. i.e. for n=1 returns 1)
 
 
 ## Installation
