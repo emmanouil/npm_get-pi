@@ -29,7 +29,7 @@ Supported commands:
 
 ## NOTES
 
-    Rounding on the last digit occurs ONLY when returning _Float_
+  Rounding on the last digit occurs ONLY when returning _Float_
 
 ## Tests
 
